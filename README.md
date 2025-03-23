@@ -32,7 +32,7 @@ For url: `https://web.whatsapp.com`
 ```
 
 ## Changes for Telegram Web
-For url: `https://web.telegram.org/a/` *Telegram web version **a** only.*
+For url: `https://web.telegram.org/k/` *Telegram web version **k** only.*
 
 ```
 /* Force #column-left to stay at 30% */
